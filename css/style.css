@@ -1,0 +1,8 @@
+/* css/style.css */
+body {
+  scroll-behavior: smooth;
+}
+
+.card {
+  border-left: 5px solid #004080;
+}
